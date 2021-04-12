@@ -1,9 +1,3 @@
-/*
- * main.cc
- *
- *  Created on: 19 окт. 2020 г.
- *      Author: unyuu
- */
 
 #include <iostream>
 #include <stdexcept>
